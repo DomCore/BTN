@@ -1,2 +1,1 @@
-# -
-ПОБУДОВА БАЄСОВИХ МЕРЕЖ ДОВІРИ ПРОГНОЗУВАННЯ ПАСАЖИРОПОТОКІВ ГРОМАДСЬКОГО ТРАНСПОРТУ З ВИКОРИСТАННЯМ ГЕНЕРАТИВНОГО ШТУЧНОГО ІНТЕЛЕКТУ
+Probabilistic and AI-Driven Analysis of Public Transport Service Interruptions
